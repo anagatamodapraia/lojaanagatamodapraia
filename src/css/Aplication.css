@@ -14,7 +14,7 @@ main{
     margin-top: 20px;
     border-radius: 5px;
 }
-.Logo,.Texto,.HeadLine{
+.Logo,.HeadLine{
     margin: 0%;
     text-align: center;
 }
@@ -77,4 +77,11 @@ main{
     height: 200px;
     position: relative;
     border-radius: 50%;
+}
+.Texto,.test{
+    margin: 0%;
+    text-align: center;
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
